@@ -17,7 +17,7 @@
     .page {
         grid-template-areas:
           "header  header"
-          "body    aside"
+          "body body"
           "footer  footer";
         grid-template-columns: minmax(0, 1fr) 15rem;
         grid-column-gap: 2rem;

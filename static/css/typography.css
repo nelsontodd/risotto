@@ -67,11 +67,11 @@ p {
 /* Links */
 
 a:link, a:visited {
-    color: var(--fg);
+    color: var(--highlighted-text);
 }
 
 a:hover, a:active {
-    color: var(--bright-fg);
+    color: var(--highlighted-text);
 }
 
 /* Lists */
